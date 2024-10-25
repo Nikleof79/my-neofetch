@@ -26,4 +26,4 @@ my neofetch config
 ```
 
 ## how to install it
-copy file config.conf and then move it into ~/.config/neofetch/
+copy files and then move them into ~/.config/neofetch/
