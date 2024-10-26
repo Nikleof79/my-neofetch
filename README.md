@@ -16,14 +16,14 @@ my neofetch config
  ​  ⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠     ┌── Terminal ──┐ 
  ​  ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙     Shell: bash 5.2.32 
  ​  ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣     Terminal: konsole 
-                                      └────────────────┘ 
+                                           └────────────────┘ 
                                        
-                                      ┌── Hardware ──┐ 
-                                      CPU: 12th Gen Intel i7-12650H (16) @ 4.600GHz 
-                                      GPU: NVIDIA GeForce RTX 4050 Max-Q / Mobile 
-                                      GPU: Intel Alder Lake-P GT1 [UHD Graphics] 
-                                      Memory: 4004MiB / 15690MiB (25%) 
-                                      └───────────────┘ 
+                                           ┌── Hardware ──┐ 
+                                           CPU: 12th Gen Intel i7-12650H (16) @ 4.600GHz 
+                                           GPU: NVIDIA GeForce RTX 4050 Max-Q / Mobile 
+                                           GPU: Intel Alder Lake-P GT1 [UHD Graphics] 
+                                           Memory: 4004MiB / 15690MiB (25%) 
+                                           └───────────────┘ 
 
 
 ```
